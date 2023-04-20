@@ -1,6 +1,9 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 <h1 align="center">Welcome To My GitHub Profile</h1>
 <h3 align="center">An impassioned creator of visually stunning digital experiences, hailing from the vibrant island of Sri Lanka.</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xkingyt&label=Profile%20views&color=0e75b6&style=flat" alt="xkingyt" /> </p>
 
